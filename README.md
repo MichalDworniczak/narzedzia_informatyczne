@@ -29,5 +29,7 @@ for i in range(10):
 | 2346  | 6544  |
 | 7654563 | 5663  |
 
-## Zdjęcie
+## Zdjęcia
 ![dog photo](animals/dog.jpg)
+
+![fish photo](animals/fish.jpg)
