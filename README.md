@@ -30,6 +30,10 @@ for i in range(10):
 | 7654563 | 5663  |
 
 ## Zdjęcia
+Pies
+
 ![dog photo](animals/dog.jpg)
+
+Ryba
 
 ![fish photo](animals/fish.jpg)
