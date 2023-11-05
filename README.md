@@ -16,4 +16,11 @@ Lista nienumerowana:
 - lista
 - nienumerowana
 
+## Kod
+Program napisany w Pythonie, który wypisuje wszystkie cyfry arabskie:
+```python
+for i in range(10):
+    print(i)
+```
+
 
