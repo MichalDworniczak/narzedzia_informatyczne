@@ -37,3 +37,7 @@ Pies
 Ryba
 
 ![fish photo](animals/fish.jpg)
+
+Kot
+
+![cat photo](animals/cat.jpg)
