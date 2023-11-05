@@ -22,5 +22,9 @@ Program napisany w Pythonie, który wypisuje wszystkie cyfry arabskie:
 for i in range(10):
     print(i)
 ```
-
-
+### Tabela
+| Losowe liczby  | Więcej losowych liczb |
+| ------------- | ------------- |
+| 864658 |34766854  |
+| 2346  | 6544  |
+| 7654563 | 5663  |
